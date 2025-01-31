@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "488287774085",
+    "project_id": "personal-finance-app-a918a",
+    "storage_bucket": "personal-finance-app-a918a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488287774085:android:e7aaa9d589d089b8d510ec",
+        "android_client_info": {
+          "package_name": "com.example.personal_finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488287774085-kl735e11b6lhuv0ii7bntj260bfk8q47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personal_finance",
+            "certificate_hash": "67af35430a4995ec6c001bb9a85cfe93beb719ff"
+          }
+        },
+        {
+          "client_id": "488287774085-7a7erv73kvlrtlqu51rqsp85gva5ibo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRlfhstkCdwcbSvLeSyTgacsmDPVCBog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488287774085-7a7erv73kvlrtlqu51rqsp85gva5ibo7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "488287774085-2pmq7q7d9knjn37pcmh5cpuon6f8kt38.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.personalFinance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
